@@ -1,0 +1,15 @@
+h1{
+    color: coral;
+}
+h2 {
+    color: crimson;
+    font-style: normal;
+    text-align: left;
+}
+ p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ ol{
+     line-height: 20px;
+     color: darkcyan;
+ }
