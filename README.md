@@ -1,5 +1,5 @@
-# Prep-My First simple Website.
-#### Simple Webpage, December,2021
+# Prep-My First Simple Website.
+#### A Simple Website, December,2021
 #### By **Basilia Wairimu**
 ## Description
 A first webpage.
