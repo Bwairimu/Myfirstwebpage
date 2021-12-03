@@ -2,14 +2,20 @@ h1{
     color: coral;
 }
 h2 {
-    color: crimson;
+    color: plum;
     font-style: normal;
     text-align: left;
 }
  p {
   font-family: Georgia, 'Times New Roman', Times, serif;
+  color: black;
  }
  ol{
      line-height: 20px;
      color: darkcyan;
+ }
+ footer{
+     display: inline;
+     color: purple;
+     float: calc();
  }
